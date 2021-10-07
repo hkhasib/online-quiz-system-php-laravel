@@ -12,7 +12,7 @@ This Online MCQ Quiz System is a web application based on Laravel (PHP) that can
 - If Quiz Time is over, No submission will be taken
 - Custom Authentication System (Not using laravel default Auth)
 
-I created this project to help someone in his university project for Web Programming Course a few months ago. I hope it will help other students as well as I have uploaded it.
+I created this project to help someone in his university project for Web Programming Course a few months ago. I hope it will help other students as well. That's why I have uploaded it.
 
 ## How to Run this Project
 Running this project is very easy. To do it, you can follow these steps.
